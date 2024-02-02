@@ -162,4 +162,4 @@ Abaixo seguem as tecnologias utilizadas:
 * [NPM](https://www.npmjs.com/) - Gerenciador de pacotes/dependências.
 * [cypress](https://www.cypress.io/) - Framework utilizado para automação de testes de GUI e API.
 * [moment](https://momentjs.com/) - Framework que permite gerar e manipular datas com facilidade no JS.
-* [Faker](https://faker.readthedocs.io/en/master/) - Biblioteca utilizada para geração dos dados falsos utilizados no teste.
+* [Faker](https://www.npmjs.com/package/@faker-js/faker) - Biblioteca utilizada para geração dos dados falsos utilizados no teste.
