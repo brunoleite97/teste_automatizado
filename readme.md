@@ -162,8 +162,4 @@ Abaixo seguem as tecnologias utilizadas:
 * [NPM](https://www.npmjs.com/) - Gerenciador de pacotes/dependências.
 * [cypress](https://www.cypress.io/) - Framework utilizado para automação de testes de GUI e API.
 * [moment](https://momentjs.com/) - Framework que permite gerar e manipular datas com facilidade no JS.
-* [Python](https://python.org) - Linguagem de programação utilizada para geração dos dados para o teste.
 * [Faker](https://faker.readthedocs.io/en/master/) - Biblioteca utilizada para geração dos dados falsos utilizados no teste.
-* [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - Openpyxl é uma biblioteca Python para ler/gravar arquivos xlsx/xlsm/xltx/xltm.
-* [Pandas](https://pandas.pydata.org/) - pandas é uma ferramenta de análise e manipulação de dados de código aberto rápida, poderosa, flexível e fácil de usar,
-construída sobre a linguagem de programação Python .
